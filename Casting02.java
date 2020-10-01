@@ -3,7 +3,7 @@ package edu.smg;
 public class Casting02 {
 	public static void main(String[] args) {
         
-        //World population today
+        //Wgrftyorld population today
         long currentWorldPop = 7_000_000_000L;
         System.out.println("Current World Population: " +currentWorldPop);
         
